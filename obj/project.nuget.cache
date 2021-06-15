@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwlKwmsxUun+l/vq984AE6gyNxUkXQ068S2XCThlNFtAL2nsgvd8JDrGioAEc7w/kZgw4sQZxs4VS7nhSayz3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josep\\Desktop\\Proyecto terminado final\\SalesGenerator\\SalesGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

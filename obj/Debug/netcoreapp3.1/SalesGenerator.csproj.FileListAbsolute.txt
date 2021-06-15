@@ -1,0 +1,163 @@
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.Form1.resources
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\Users\josepgarace\source\repos\SalesGenerator\bin\Debug\netcoreapp3.1\ShopfyDBLibrary.pdb
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\source\repos\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
+C:\Users\josep\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josep\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josep\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josep\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josep\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.Form1.resources
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
+C:\Users\josepgarace\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josepgarace\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josepgarace\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josepgarace\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josepgarace\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\Desktop\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormCheck.resources
+C:\Users\josepgarace\Desktop\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormScanner.resources
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormCheck.resources
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormScanner.resources
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josep\Desktop\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
+C:\Users\josep\Desktop\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\Zen.Barcode.Core.dll
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\Zen.Barcode.Core.dll
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormCheck.resources
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormRemover.resources
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormScanner.resources
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\Downloads\fase 3\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\Zen.Barcode.Core.dll
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormCheck.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormRemover.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormScanner.resources
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josepgarace\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormCheck.resources
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormRemover.resources
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormScanner.resources
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\josep\Desktop\Proyecto terminado\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.Properties.Resources.resources
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.exe
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.deps.json
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.json
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.runtimeconfig.dev.json
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormCheck.resources
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormRemover.resources
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.FormScanner.resources
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.Properties.Resources.resources
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.GenerateResource.cache
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.AssemblyInfo.cs
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.csproj.CopyComplete
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.dll
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.pdb
+C:\Users\josep\Desktop\Proyecto terminado final\SalesGenerator\obj\Debug\netcoreapp3.1\SalesGenerator.genruntimeconfig.cache
